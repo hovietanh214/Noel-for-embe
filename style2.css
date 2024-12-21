@@ -17,11 +17,12 @@ body {
 }
 
 body .img1{
-  width:45%; 
-  height:100%;
+  width:50%; 
+  height:75%;
   image-rendering: pixelated;
   position: absolute;
-  left: 70%;
+  left: 68%;
+  top: 30%;
   /* margin-top: -163px; */
 }
 
